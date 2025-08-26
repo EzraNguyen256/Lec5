@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class ex11 {
 
     public static void Quadratic(double a, double b, double c) {
-        if (a == 0) {
+        if (a == 0) {   
             if (b == 0) {
                 if (c == 0) {
                     System.out.println("Chuong trinh co vo so nghiem");
